@@ -1,4 +1,4 @@
-# rn-ie2-react-native-mvvm-architecture
+# react-native-mvvm-architecture
 
 ### TypeScript - React Native
 
@@ -7,9 +7,6 @@
 ## Descrição
 
 Este projeto servirá como base para estudos de como aplicar o padrão de arquitetura MVVM no React Native/JS
-
-[Contribua](https://tfs.iteris.com.br/Iteris%20-%20GC/GC%20-%20Common/_wiki/wikis/GC/34/Contribui%C3%A7%C3%A3o-CP) com a CP e ajude construir um KB sensacional.\
-Lembre-se, o intuito é reunir conhecimento, isso não quer dizer que precisamos produzi-los do zero 😉.
 
 ---
 
@@ -66,11 +63,6 @@ Então aparecerá no seu terminal algumas opcões para rodar o projeto, você po
 Além disso, você poderá baixar o Expo Go na loja de aplicativos do seu dispositivo físico para ler o QR Code que também aparece no seu terminal e abrir o projeto no seu dispositivo físico.
 
 ---
-
-## Histórico de versões/Autores
-
-- Versão 1.0 - Lançamento inicial
-  - [Rafael Juliani da Cunha](https://teams.microsoft.com/l/chat/0/0?users=<rafael.cunha@iteris.com.br>)
 
 ## Licença
 
