@@ -2,8 +2,6 @@
 
 ### TypeScript - React Native
 
-### Versão 1.0
-
 ## Descrição
 
 Este projeto servirá como base para estudos de como aplicar o padrão de arquitetura MVVM no React Native/JS
@@ -14,8 +12,8 @@ Este projeto servirá como base para estudos de como aplicar o padrão de arquit
 
 Antes de iniciar, se assegure que possui os requisitos abaixo:
 
-- Node 16.0+
-- Yarn 1.22+
+- Node
+- Yarn
 - expo-cli
 - Android Studio
 - Xcode (MacOS)
@@ -30,15 +28,15 @@ Antes de iniciar, se assegure que possui os requisitos abaixo:
 
 ### Tecnologias, ferramentas e bibliotecas utilizadas
 
-- React (18.2.0);
-- React Native (0.71.6);
-- TypeScript (4.9.4);
-- Expo (48.0.10);
-- Jest (29.5.0);
-- Jest-expo (48.0.2);
-- Testing-library/react-hooks (8.0.1);
-- Testing-library/react-native (12.0.1);
-- React Navigation (6.1.6);
+- React
+- React Native
+- TypeScript
+- Expo
+- Jest
+- Jest-expo
+- Testing-library/react-hooks
+- Testing-library/react-native
+- React Navigation
 
 ## Compilação / Configuração
 
